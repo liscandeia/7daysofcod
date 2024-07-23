@@ -1,0 +1,4 @@
+#Pacotes utilizados
+pandas
+numpy
+plotly
