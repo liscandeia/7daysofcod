@@ -1,4 +1,8 @@
-#Pacotes utilizados
+#Pacotes utilizados com python 3.11 para as aulas 1,2 e 3.
 pandas
 numpy
 plotly
+prophet
+pystan
+matplotlib
+scikit-learn
